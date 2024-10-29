@@ -90,7 +90,7 @@ class WeatherScreen extends StatelessWidget {
               ),
             ),
             const Spacer(),
-            const SizedBox(height: 20), // Menambahkan jarak di bagian bawah
+            const SizedBox(height: 20), //
           ],
         ),
       ),
