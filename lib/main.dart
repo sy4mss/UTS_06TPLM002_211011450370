@@ -65,7 +65,7 @@ class WeatherScreen extends StatelessWidget {
                 ),
               ),
               const SizedBox(height: 30),
-              Icon(
+              const Icon(
                 Icons.cloud,
                 size: 100,
                 color: Colors.white,
