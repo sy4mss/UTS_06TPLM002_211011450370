@@ -29,7 +29,7 @@ class WeatherScreen extends StatelessWidget {
       decoration: const BoxDecoration(
         image: DecorationImage(
           image: AssetImage('images/images.jpg'),
-          fit: BoxFit.cover,
+          fit: BoxFit.fill,
         ),
       ),
       child: Container(
